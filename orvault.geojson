@@ -1,0 +1,209 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+       {
+          "type":"Feature",
+          "id": "Duct.fid--1030b597_183a82788b9_-6e2d",
+          "geometry":{
+            "type": "LineString",
+            "coordinates":[
+               [
+                  -1.61337650217519,
+                  47.2701841690202
+               ],
+               [
+                  -1.61294493050852,
+                  47.2706527456868
+               ]
+            ]
+         },
+         "geometry_name": "centrelineGeometry",
+          "properties":{
+            "pkid":"nl.imkl-KL1040.TOPO_As_Maatvoering39697_16451058",
+            "thema": "warmte",
+            "ucCode":"KL1040",
+            "clickable":1,
+            "currentStatus": "functional",
+            "sourceId": "ductkabelbed"
+          }
+       },
+       {
+          "type":"Feature",
+          "id": "Duct.fid--1030b597_183a82788b9_-6e2c",
+          "geometry_name": "centrelineGeometry",
+          "properties":{
+            "pkid": "nl.imkl-KL1011.DUCT_Orca_Pipe_2620230943__Orca_Trench_2620230814_2",
+            "thema": "water",
+            "ucCode": "KL1011",
+            "currentStatus": "functional",
+            "clickable": 1,
+            "sourceId": "ductkabelbed"
+          },
+          "geometry":{
+             "coordinates":[
+                [
+                   -1.613421803,
+                   47.27017513
+                ],
+                [
+                   -1.613428803,
+                   47.27017968
+                ]
+             ],
+             "type":"LineString"
+          }
+       },
+       {
+          "type":"Feature",
+          "id": "Kabelbed.fid--1030b597_183a82788b9_-6e16",
+          "geometry_name": "centrelineGeometry",
+          "properties":{
+            "pkid": "nl.imkl-KL1011.KBED_ImklWibon_Duct_Trench_orca_trench_2620230814_8",
+            "thema": "datatransport",
+            "ucCode": "KL1011",
+            "currentStatus": "functional",
+            "clickable": 1,
+            "sourceId": "ductkabelbed"
+          },
+          "geometry":{
+             "coordinates":[
+                [
+                   -1.61337615050852,
+                   47.2701739856869
+                ],
+                [
+                   -1.61294406717519,
+                   47.2706425973535
+                ]
+             ],
+             "type":"LineString"
+          }
+       },
+       {
+          "type":"Feature",
+          "id": "Kabelbed.fid--1030b597_183a82788b9_-6e16",
+          "geometry_name": "centrelineGeometry",
+          "properties":{
+            "pkid": "nl.imkl-KL1011.KBED_ImklWibon_Duct_Trench_orca_trench_2620230916_6",
+            "thema": "datatransport",
+            "ucCode": "KL1011",
+            "currentStatus": "functional",
+            "clickable": 1,
+            "sourceId": "ductkabelbed"
+          },
+          "geometry":{
+             "coordinates":[
+                [
+                   -1.6130114296239526,
+                   47.27068594597179
+                ],
+                [
+                   -1.6130599200743916,
+                   47.270707013424385
+                ]
+             ],
+             "type":"LineString"
+          }
+       },
+       {
+          "type":"Feature",
+          "id": "Kabelbed.fid--1030b597_183a82788b9_-6e14",
+          "geometry_name": "centrelineGeometry",
+          "properties":{
+            "pkid": "nl.imkl-KL1051.21555438",
+            "thema": "datatransport",
+            "ucCode": "KL1051",
+            "currentStatus": "functional",
+            "clickable": 1,
+            "sourceId": "ductkabelbed"
+          },
+          "geometry":{
+             "coordinates":[
+                [
+                   -1.61294988717519,
+                   47.2706656306868
+                ],
+                [
+                   -1.61304122550852,
+                   47.2705725006768
+                ],
+                [
+                   -1.61308594050852,
+                   47.2705521390202
+                ],
+                [
+                   -1.61313520717519,
+                   47.2705436523535
+                ],
+                [
+                   -1.61318344717519,
+                   47.2705458756868
+                ],
+                [
+                   -1.61323136050852,
+                   47.2705590473535
+                ],
+                [
+                   -1.61326921050852,
+                   47.2705746806868
+                ]
+             ],
+             "type":"LineString"
+          }
+       }, 
+       {
+        "type": "Feature",
+        "id": "Appurtenance.fid--1030b597_183a82788b9_-6dda",
+        "geometry_name": "geom",
+         "properties":{
+            "pkid": "nl.imkl-KL1010.BK15191-2_datatransport_overig",
+            "thema": "datatransport",
+            "ucCode": "KL1010",
+            "currentStatus": "functional",
+            "appurtenanceType": "TelecommunicationsAppurtenanceTypeIMKLValue/overig",
+            "rotatiehoekSymbool": null,
+            "clickable": 1,
+            "sourceId": "leidingelement"       
+         },
+        "geometry": {
+          "coordinates": [
+            -1.6128989068875512,
+            47.270702261738876
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "Appurtenance.fid--1030b597_183a82788b9_-6dd3",
+        "geometry_name": "geom",
+         "properties":{
+            "pkid": "nl.imkl-KL1010.BK90388-1_datatransport_overig",
+            "thema": "datatransport",
+            "ucCode": "KL1010",
+            "currentStatus": "functional",
+            "appurtenanceType": "TelecommunicationsAppurtenanceTypeIMKLValue/overig",
+            "rotatiehoekSymbool": null,
+            "clickable": 1,
+            "sourceId": "leidingelement"      
+         },
+        "geometry": {
+          "coordinates": [
+            -1.6133769170699281,
+            47.2701557613903
+          ],
+          "type": "Point"
+        }
+      }
+    ],
+    "totalFeatures": 7,
+    "numberMatched": 7,
+    "numberReturned": 7,
+    "timeStamp": "2022-10-05T12:39:46.490Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+ }
